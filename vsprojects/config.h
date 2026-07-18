@@ -19,10 +19,12 @@
 #define HASH_SET_H <hash_set>
 
 /* define if the compiler has hash_map */
-#define HAVE_HASH_MAP 1
+// dimhotepus: No hash_map anymore.
+// #define HAVE_HASH_MAP 1
 
 /* define if the compiler has hash_set */
-#define HAVE_HASH_SET 1
+// dimhotepus: No hash_set anymore.
+// #define HAVE_HASH_SET 1
 
 /* define if you want to use zlib.  See readme.txt for additional
  * requirements. */
